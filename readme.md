@@ -1,4 +1,4 @@
-## NodeJS
+- NodeJS
 	- Working with Promises and writing them correctly
 		- [Coding Train Promises Playlist](https://www.youtube.com/watch?v=QO4NXhWo_NM&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx&index=1)
 		- [MDN Docs Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
@@ -28,26 +28,26 @@
 		- Event Sourcing/Domain History
 		- Transactional Outbox
 	- Introducing static typing on your NodeJS projects (TypeScript)
-## NodeJS Debugging
+- NodeJS Debugging
 	- Detecting Memory Leaks
 	- Profiling your NodeJS code
 	- Logging Practices
-## Useful NodeJS libraries
+- Useful NodeJS libraries
 	- Refer to tech-notes.md
-## Google Cloud Platform
+- Google Cloud Platform
 	- Kubernetes (basic commands)
 	- Writing Helm scripts
 	- Stackdriver Logging
 	- Dashboards
 	- Grafana + Prometheus
 	- Creating Alerts
-## APIs
+- APIs
 	- Contracts (JSON Schema/Open API)
 		- How to write proper contracts
 		- Gotchas of anyOf/oneOf
 	- Web Server (Fastify )
 	- API Evolution Strategies
-## Database
+- Database
 	- Postgres
 		- Schema Migrations
 		- Data Migrations
