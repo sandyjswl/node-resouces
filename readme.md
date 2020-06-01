@@ -34,6 +34,8 @@
 	- Introducing static typing on your NodeJS projects (TypeScript)
 - NodeJS Debugging
 	- Detecting Memory Leaks
+		- [Finding And Fixing Node.js Memory Leaks](https://marmelab.com/blog/2018/04/03/how-to-track-and-fix-memory-leak-with-nodejs.html)
+		- [Memory Leaks in NodeJS](https://medium.com/tech-tajawal/memory-leaks-in-nodejs-quick-overview-988c23b24dba)
 	- Profiling your NodeJS code
 	- Logging Practices
 - Useful NodeJS libraries
