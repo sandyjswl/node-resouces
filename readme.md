@@ -23,7 +23,11 @@
 		- Service Orchestration
 		- Sync vs Async Transactions
 		- Sagas
+			- [Saga Pattern](https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/)
+			- [Saga Microservice.io](https://microservices.io/patterns/data/saga.html)
 		- Idempotency
+			- [Idempotent REST APIs](https://restfulapi.net/idempotent-rest-apis/)
+			- [Understanding Idempotency and Safety in API Design](https://nordicapis.com/understanding-idempotency-and-safety-in-api-design/)
 		- Non-concurrent resource access
 		- Event Sourcing/Domain History
 		- Transactional Outbox
